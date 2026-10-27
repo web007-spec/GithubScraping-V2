@@ -1,0 +1,301 @@
+# Search queries for batch discovery of public Google Drive folders (one per line)
+# Used with batch_search mode — combined with category-derived queries at crawl time.
+
+research papers pdf
+scientific articles folder
+academic publications drive
+medicine research papers
+biology research pdf
+physics papers public
+user manual pdf
+technical documentation folder
+API documentation public
+product manual drive
+public domain books pdf
+educational materials folder
+textbook pdf collection
+whitepaper pdf
+company report public
+product documentation folder
+lecture notes pdf
+course materials folder
+university assignments
+class presentation slides
+government report pdf
+statistics dataset csv
+regulations document folder
+resume template folder
+business plan template drive
+contract template pdf
+spreadsheet template
+invoice template xlsx
+budget spreadsheet
+financial report pdf
+product catalog pdf
+scientific article collection
+marketing plan template
+project proposal folder
+employee handbook pdf
+onboarding documents
+SOP template folder
+checklist template drive
+meeting notes template
+agenda template folder
+newsletter template
+press release folder
+blog content calendar
+social media plan template
+SWOT analysis template
+risk assessment document
+incident report template
+travel itinerary template
+lesson plan folder
+syllabus template drive
+thesis dissertation pdf
+essay examples folder
+annual report pdf
+status report template
+project report folder
+NDA template pdf
+job description template
+performance review template
+research dataset folder
+open data csv
+public datasets drive
+machine learning papers
+artificial intelligence research
+computer science papers
+engineering manual pdf
+architecture drawings folder
+medical case studies
+clinical trial report
+chemistry lab report
+mathematics notes pdf
+history documents folder
+geography maps folder
+economics report pdf
+law case studies folder
+psychology research pdf
+sociology papers folder
+philanthropy report public
+nonprofit annual report
+startup pitch deck
+investor presentation folder
+sales playbook pdf
+customer success guide
+HR policy documents
+compliance checklist folder
+security policy pdf
+privacy policy template
+GDPR documentation folder
+ISO certification documents
+quality assurance manual
+manufacturing SOP folder
+supply chain report
+logistics planning spreadsheet
+inventory template xlsx
+warehouse checklist
+construction project folder
+real estate brochure pdf
+architecture portfolio folder
+design assets folder
+logo collection drive
+diagram illustrations folder
+chart templates spreadsheet
+educational illustrations
+infographic templates
+photography portfolio public
+art portfolio folder
+music sheet collection
+film production documents
+script template folder
+storyboard template
+video production checklist
+podcast planning template
+event planning folder
+wedding planner template
+restaurant menu template
+recipe collection folder
+cookbook pdf public
+fitness plan template
+workout schedule spreadsheet
+nutrition guide pdf
+yoga class materials
+meditation guide folder
+travel guide pdf
+tourism brochure folder
+hotel operations manual
+hospitality training materials
+retail operations manual
+ecommerce product sheet
+amazon listing template
+shopify guide folder
+wordpress tutorial pdf
+web development resources
+javascript cheat sheet
+python tutorial folder
+data science notebook
+machine learning dataset
+deep learning papers
+cloud architecture diagram
+aws documentation folder
+azure guide pdf
+kubernetes cheat sheet
+devops runbook folder
+cybersecurity playbook
+penetration test report template
+network diagram folder
+database schema documentation
+sql queries collection
+mongodb guide folder
+react component library
+vue tutorial materials
+angular project template
+mobile app wireframe
+ui kit folder drive
+figma resources public
+brand guidelines pdf
+style guide folder
+corporate identity manual
+press kit folder
+media kit pdf
+journalism ethics guide
+newsroom style guide
+translation glossary folder
+language learning materials
+esl lesson plans
+spanish worksheets folder
+french grammar pdf
+german vocabulary folder
+japanese study materials
+chinese practice sheets
+korean language folder
+coding bootcamp curriculum
+computer literacy materials
+digital literacy guide
+citizenship study guide
+driving test materials
+exam preparation folder
+SAT practice materials
+GRE study guide pdf
+GMAT prep folder
+LSAT practice tests
+MCAT study materials
+bar exam outlines folder
+CPA review materials
+CFA study notes
+PMP exam prep folder
+scrum master guide
+agile handbook pdf
+kanban template folder
+jira workflow guide
+confluence template folder
+notion template collection
+product roadmap template
+OKR template spreadsheet
+KPI dashboard xlsx
+analytics report template
+google analytics guide
+seo checklist folder
+content strategy template
+copywriting swipe file
+email marketing templates
+newsletter archive folder
+crm playbook pdf
+sales funnel template
+lead magnet folder
+landing page copy template
+ad copy examples folder
+facebook ads template
+google ads checklist
+tiktok content calendar
+instagram planning folder
+youtube channel planner
+podcast guest briefing
+webinar slide deck
+conference presentation folder
+workshop materials pdf
+training manual folder
+facilitator guide pdf
+coaching workbook folder
+mentorship program guide
+career development plan
+interview prep folder
+salary negotiation guide
+networking email templates
+linkedin profile guide
+portfolio case studies folder
+freelance contract template
+invoice freelance pdf
+timesheet template xlsx
+project timeline gantt
+roadmap presentation folder
+milestone tracker spreadsheet
+bug report template
+release notes folder
+changelog template
+software license folder
+open source readme collection
+github project documentation
+api reference folder
+sdk documentation pdf
+integration guide folder
+partner onboarding kit
+vendor evaluation template
+RFP response template
+procurement checklist folder
+tender documents pdf
+grant proposal template
+fellowship application folder
+scholarship essay examples
+college application guide
+financial aid documents
+student loan guide pdf
+tax preparation checklist
+accounting ledger template
+bookkeeping spreadsheet
+payroll template xlsx
+expense report folder
+receipt organizer spreadsheet
+small business toolkit
+entrepreneur workbook folder
+side hustle planner
+ecommerce business plan
+dropshipping guide pdf
+affiliate marketing folder
+passive income planner
+real estate investment folder
+stock market guide pdf
+cryptocurrency research folder
+blockchain whitepaper collection
+nft project folder
+metaverse research pdf
+sustainability report folder
+ESG disclosure template
+carbon footprint calculator
+climate research papers
+renewable energy report
+solar installation manual
+wind energy study pdf
+agriculture guide folder
+farming checklist spreadsheet
+livestock management folder
+veterinary manual pdf
+pet care guide folder
+gardening planner spreadsheet
+landscaping portfolio folder
+home renovation checklist
+interior design moodboard
+furniture catalog pdf
+appliance manual folder
+electronics repair guide
+automotive repair manual
+car maintenance checklist
+motorcycle guide pdf
+aviation manual folder
+maritime safety documents
+shipping documentation folder
+customs compliance guide
+import export checklist
+trade agreement summary pdf
+logistics contract template

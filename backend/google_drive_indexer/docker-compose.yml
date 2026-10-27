@@ -1,0 +1,22 @@
+services:
+  drive-indexer:
+    build: .
+    environment:
+      MONGODB_URI: mongodb://mongo:27017
+      MONGODB_DB_NAME: outreach_console
+      DATABASE_STORAGE: mongodb
+    volumes:
+      - ./downloads:/app/downloads
+      - ./thumbnails:/app/thumbnails
+    depends_on:
+      - mongo
+
+  mongo:
+    image: mongo:7
+    ports:
+      - "27018:27017"
+    volumes:
+      - drive_mongo_data:/data/db
+
+volumes:
+  drive_mongo_data:

@@ -1,0 +1,33 @@
+{
+  "name": "github-scraper-admin",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node --max-old-space-size=2048 ./node_modules/next/dist/bin/next dev --webpack -H 0.0.0.0 -p 3001",
+    "dev:turbo": "node --max-old-space-size=3072 ./node_modules/next/dist/bin/next dev -H 0.0.0.0 -p 3001",
+    "dev:lan": "node scripts/dev-lan.mjs",
+    "typecheck": "tsc --noEmit",
+    "build": "node --max-old-space-size=3072 ./node_modules/next/dist/bin/next build",
+    "start": "node --max-old-space-size=2048 ./node_modules/next/dist/bin/next start -H 0.0.0.0 -p 3001",
+    "start:lan": "node scripts/start-lan.mjs",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.5.0",
+    "@supabase/supabase-js": "^2.45.0",
+    "ag-grid-community": "^35.3.0",
+    "ag-grid-react": "^35.3.0",
+    "next": "^16.2.6",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.0.0"
+  }
+}

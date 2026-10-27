@@ -1,0 +1,76 @@
+/* Drive workspace — docs card layout with amber accent overrides */
+
+.app-shell--drive {
+  --module-accent: #f59e0b;
+}
+
+.app-shell--drive .docs-hero {
+  border-color: rgb(245 158 11 / 0.22);
+  background:
+    linear-gradient(135deg, rgb(120 53 15 / 0.28), rgb(17 24 39 / 0.96) 46%, rgb(11 18 32 / 0.98)),
+    #111827;
+  box-shadow: 0 28px 80px -46px rgb(245 158 11 / 0.35);
+}
+
+.app-shell--drive .docs-hero__eyebrow {
+  color: #fbbf24;
+}
+
+.app-shell--drive .btn-primary {
+  background: linear-gradient(135deg, #f59e0b, #d97706);
+  border-color: rgb(251 191 36 / 0.45);
+  color: #1c1208;
+}
+
+.app-shell--drive .btn-primary:hover:not(:disabled) {
+  background: linear-gradient(135deg, #fbbf24, #f59e0b);
+}
+
+.app-shell--drive .docs-stat-card strong {
+  color: #fde68a;
+}
+
+.app-shell--drive .docs-card:hover {
+  border-color: rgb(245 158 11 / 0.35);
+}
+
+.app-shell--drive .docs-card {
+  background:
+    radial-gradient(circle at 50% 0%, rgb(245 158 11 / 0.08), transparent 10rem),
+    linear-gradient(180deg, rgb(19 28 46 / 0.96), rgb(12 18 32 / 0.98));
+  border-color: rgb(245 158 11 / 0.12);
+}
+
+.app-shell--drive .docs-card__preview-badge {
+  border-color: rgb(245 158 11 / 0.28);
+  color: #fde68a;
+}
+
+.app-shell--drive .docs-card__chip {
+  border-color: rgb(245 158 11 / 0.28);
+  background: rgb(245 158 11 / 0.1);
+  color: #fde68a;
+}
+
+.app-shell--drive .docs-card__title a:hover {
+  color: #fbbf24;
+}
+
+.app-shell--drive .docs-card__actions .btn-primary {
+  background: linear-gradient(135deg, #f59e0b, #d97706);
+  border-color: rgb(251 191 36 / 0.45);
+  color: #1c1208;
+}
+
+.app-shell--drive .docs-card__stats div {
+  border-color: rgb(245 158 11 / 0.18);
+}
+
+.app-shell--drive .workspace-subnav__link--active {
+  --module-accent: #f59e0b;
+}
+
+.app-shell--drive .drive-category-picker__group:has(input:checked) {
+  border-color: rgb(245 158 11 / 0.45);
+  background: rgb(245 158 11 / 0.06);
+}

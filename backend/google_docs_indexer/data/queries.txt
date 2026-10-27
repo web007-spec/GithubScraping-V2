@@ -1,0 +1,499 @@
+# Search queries for batch discovery (one per line)
+# Used with: python main.py crawl-csv --batch-search --target 10000
+#
+# Each query finds ~25-50 unique docs. 200 queries ≈ 5,000-10,000 docs.
+# Add your own topics below:
+
+resume template
+resume example
+CV template
+cover letter template
+business plan template
+business plan example
+business proposal template
+project proposal template
+meeting notes template
+meeting minutes template
+invoice template
+receipt template
+budget template
+financial plan template
+marketing plan template
+lesson plan template
+syllabus template
+research paper template
+thesis template
+essay template
+report template
+annual report template
+status report template
+project report template
+contract template
+agreement template
+NDA template
+job description template
+employee handbook template
+onboarding template
+performance review template
+SOP template
+checklist template
+to-do list template
+agenda template
+newsletter template
+press release template
+blog post template
+content calendar template
+social media plan template
+SWOT analysis template
+risk assessment template
+incident report template
+travel itinerary template
+event plan template
+wedding plan template
+grant proposal template
+fundraising plan template
+nonprofit business plan
+startup pitch deck
+one pager template
+executive summary template
+case study template
+white paper template
+user guide template
+technical documentation template
+API documentation template
+README template
+meeting agenda
+project charter template
+Gantt chart template
+timeline template
+roadmap template
+OKR template
+KPI dashboard template
+sales plan template
+sales proposal template
+customer survey template
+feedback form template
+application form template
+registration form template
+consent form template
+medical form template
+patient intake form template
+therapy notes template
+counseling intake form
+treatment plan template
+care plan template
+nursing notes template
+discharge summary template
+lab report template
+prescription template
+referral letter template
+recommendation letter template
+reference letter template
+resignation letter template
+complaint letter template
+demand letter template
+offer letter template
+employment contract template
+freelance contract template
+scope of work template
+statement of work template
+project scope template
+change request template
+bug report template
+test plan template
+QA checklist template
+release notes template
+product requirements template
+feature spec template
+design brief template
+creative brief template
+brand guidelines template
+style guide template
+media kit template
+portfolio template
+artist statement template
+screenplay template
+novel outline template
+story outline template
+character profile template
+world building template
+script template
+podcast script template
+video script template
+speech template
+presentation template
+PowerPoint outline template
+training manual template
+workshop agenda template
+course outline template
+study guide template
+flashcard template
+notes template
+ Cornell notes template
+mind map template
+brainstorm template
+idea board template
+vision board template
+goal setting template
+habit tracker template
+daily planner template
+weekly planner template
+monthly planner template
+calendar template
+schedule template
+shift schedule template
+roster template
+attendance sheet template
+timesheet template
+expense report template
+reimbursement form template
+purchase order template
+quote template
+estimate template
+proposal form template
+bid template
+tender template
+RFP response template
+RFQ template
+vendor agreement template
+supplier contract template
+partnership agreement template
+joint venture template
+MOU template
+memorandum template
+policy template
+procedure template
+guidelines template
+code of conduct template
+privacy policy template
+terms of service template
+disclaimer template
+warranty template
+return policy template
+shipping policy template
+FAQ template
+help desk template
+support ticket template
+troubleshooting guide template
+installation guide template
+quick start guide template
+onboarding guide template
+employee training template
+compliance checklist template
+audit checklist template
+safety checklist template
+inspection checklist template
+maintenance log template
+inventory list template
+asset register template
+equipment log template
+vehicle log template
+mileage log template
+fuel log template
+maintenance schedule template
+cleaning checklist template
+restaurant menu template
+recipe template
+meal plan template
+grocery list template
+nutrition log template
+workout plan template
+fitness log template
+weight loss tracker template
+sleep log template
+mood tracker template
+journal template
+diary template
+gratitude journal template
+prayer journal template
+Bible study template
+sermon notes template
+church bulletin template
+volunteer sign up template
+donation receipt template
+thank you letter template
+invitation template
+RSVP template
+guest list template
+seating chart template
+program template
+brochure template
+flyer template
+poster template
+banner template
+infographic outline template
+data report template
+survey results template
+analytics report template
+quarterly review template
+board meeting minutes template
+shareholder letter template
+investor update template
+cap table template
+term sheet template
+SAFE agreement template
+convertible note template
+due diligence checklist template
+closing checklist template
+real estate contract template
+lease agreement template
+rental application template
+property inspection template
+home inspection checklist template
+moving checklist template
+packing list template
+travel packing list template
+vacation planner template
+itinerary planner template
+bucket list template
+book review template
+reading log template
+movie review template
+game design document template
+project plan template
+work breakdown structure template
+risk register template
+issue log template
+decision log template
+stakeholder register template
+communication plan template
+quality plan template
+resource plan template
+cost estimate template
+budget forecast template
+cash flow template
+balance sheet template
+income statement template
+profit and loss template
+break even analysis template
+ROI calculator template
+business model canvas template
+lean canvas template
+value proposition template
+persona template
+customer journey template
+competitive analysis template
+market research template
+survey template
+interview guide template
+focus group guide template
+usability test template
+A/B test plan template
+growth plan template
+retention plan template
+churn analysis template
+customer success plan template
+account plan template
+territory plan template
+pipeline report template
+forecast template
+quota template
+commission template
+incentive plan template
+compensation plan template
+benefits summary template
+open enrollment template
+PTO request template
+leave request template
+time off request template
+remote work policy template
+hybrid work schedule template
+team charter template
+team norms template
+retrospective template
+sprint planning template
+daily standup template
+scrum notes template
+kanban board template
+backlog template
+user story template
+acceptance criteria template
+definition of done template
+architecture document template
+system design template
+network diagram template
+database schema template
+data dictionary template
+migration plan template
+disaster recovery template
+business continuity template
+incident response template
+security policy template
+access control template
+password policy template
+backup schedule template
+change management template
+deployment checklist template
+go live checklist template
+cutover plan template
+rollback plan template
+post mortem template
+lessons learned template
+knowledge base template
+wiki template
+documentation template
+meeting summary template
+action items template
+decision record template
+RFC template
+design doc template
+technical spec template
+product roadmap template
+feature request template
+bug triage template
+support macro template
+customer email template
+cold email template
+follow up email template
+introduction email template
+networking email template
+outreach template
+sales email template
+marketing email template
+newsletter outline template
+email sequence template
+drip campaign template
+landing page copy template
+ad copy template
+social post template
+Instagram caption template
+LinkedIn post template
+Twitter thread template
+YouTube description template
+podcast show notes template
+webinar agenda template
+conference agenda template
+workshop outline template
+facilitation guide template
+icebreaker template
+team building activity template
+culture deck template
+mission statement template
+vision statement template
+values statement template
+strategic plan template
+operating plan template
+annual plan template
+quarterly plan template
+monthly plan template
+weekly review template
+daily review template
+morning routine template
+evening routine template
+product launch plan template
+go to market template
+pricing strategy template
+packaging template
+label template
+barcode inventory template
+shipping label template
+packing slip template
+bill of lading template
+customs form template
+import export template
+trade compliance template
+regulatory filing template
+compliance report template
+ESG report template
+sustainability report template
+carbon footprint template
+environmental impact template
+diversity report template
+DEI plan template
+inclusion plan template
+accessibility checklist template
+WCAG audit template
+GDPR checklist template
+HIPAA checklist template
+SOC 2 checklist template
+ISO audit template
+certification checklist template
+licensing template
+permit application template
+zoning application template
+building permit template
+construction schedule template
+punch list template
+warranty claim template
+service report template
+work order template
+maintenance request template
+facilities checklist template
+office move template
+IT inventory template
+software license template
+hardware request template
+access request template
+onboarding IT checklist template
+offboarding checklist template
+exit interview template
+knowledge transfer template
+handover document template
+transition plan template
+succession plan template
+talent review template
+development plan template
+career plan template
+mentorship plan template
+coaching plan template
+360 feedback template
+peer review template
+self assessment template
+goal tracker template
+OKR tracker template
+KPI tracker template
+scorecard template
+dashboard template
+reporting template
+board report template
+committee report template
+audit report template
+investigation report template
+compliance audit template
+internal audit template
+external audit template
+tax preparation template
+tax checklist template
+payroll template
+pay stub template
+direct deposit form template
+W-4 template
+I-9 checklist template
+background check template
+reference check template
+interview scorecard template
+job offer template
+counter offer template
+severance agreement template
+settlement agreement template
+release form template
+liability waiver template
+photo release template
+model release template
+location release template
+copyright assignment template
+IP assignment template
+licensing agreement template
+distribution agreement template
+franchise agreement template
+licensing fee template
+royalty agreement template
+publishing agreement template
+author contract template
+editor contract template
+translator contract template
+voice over contract template
+photography contract template
+videography contract template
+event contract template
+venue contract template
+catering contract template
+vendor contract template
+supplier agreement template
+manufacturing agreement template
+OEM agreement template
+NDA mutual template
+confidentiality agreement template
+non compete template
+non solicitation template
+employment separation template
