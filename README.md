@@ -6,21 +6,22 @@ GitHub user scraping + Google Drive indexing, with a FastAPI API and Next.js adm
 
 ## Quick start (Windows)
 
+**Easiest:** double-click `start.bat` (starts Mongo + API + UI).  
+Stop with `stop.bat`.
+
+These `.bat` files bypass PowerShell execution-policy blocks automatically.
+
 ```powershell
-# 1) MongoDB (portable under .tools\mongodb, or any local mongod on :27017)
+# Or manually:
 .\start-mongo.ps1
-
-# 2) Schema (once)
 python scripts\apply_mongodb_schema.py
-
-# 3) API (:8000) + UI (:3001)
 .\start-project.ps1 -Install   # first time
 .\start-project.ps1            # later
 ```
 
 - UI: http://127.0.0.1:3001  
 - API docs: http://127.0.0.1:8000/docs  
-- Stop: `.\stop-project.ps1 -CloseShellWindows`
+- Stop: `stop.bat` or `.\stop-project.ps1 -CloseShellWindows`
 
 ## CLI scraper (optional)
 
